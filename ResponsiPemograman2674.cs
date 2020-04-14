@@ -1,6 +1,7 @@
 using System;
 
-namespace ResponsiPemrograman2663
+namespace ResponsiPemrograman2674
+   
 {
     class Program
     {
